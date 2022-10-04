@@ -1,5 +1,8 @@
+# VS Code
+*.code-workspace
+
 # Jupyter Notebook
-.ipynb_checkpoints
+*.ipynb_checkpoints
 
 # datasets
 *.csv
@@ -9,4 +12,5 @@
 *.h5
 
 # folders
+/.venv
 
